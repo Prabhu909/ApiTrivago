@@ -1,0 +1,7 @@
+
+
+API AUtomation Framework
+
+I have used Core Java along with HttpClient to do the Automation.
+The test cases include 3 GET request and 1 POST request with response assertion in each test cases.
+I have used json and httpclient maven dependency to do the automation.
